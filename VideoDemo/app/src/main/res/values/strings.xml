@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Demo</string>
+    <string name="video_1">Video 1</string>
+    <string name="video_2">Video 2</string>
+</resources>
